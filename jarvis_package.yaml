@@ -3,7 +3,7 @@ display_name: "Hermes 3 Prompt Providers"
 description: "Prompt providers for NousResearch Hermes 3 Llama 3.1 8B. Includes untrained, trained (LoRA date-key), compressed, and MLX variants."
 version: "1.0.0"
 min_jarvis_version: "0.9.0"
-license: "MIT"
+license: Apache-2.0
 author:
   github: "alexberardi"
 categories: ["prompt-provider", "hermes", "llama"]
